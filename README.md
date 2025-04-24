@@ -19,7 +19,8 @@ A virtual pet simulator created using Python's Object-Oriented Programming (OOP)
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/toshlewi/OOP-CHALLENGE-GROUP-7]
+   git clone https://github.com/toshlewi/OOP-CHALLENGE-GROUP-7
+   cd OOP-CHALLENGE
    ```
 
 2. Ensure you have Python 3.x installed
